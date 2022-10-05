@@ -90,12 +90,8 @@
 </p>
  
 <p>
-<a href="https://github.com/Rajgupta7080"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajgupta7080&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rajgupta7080&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
-</span></a> </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <hr clear="both">
  <br/>
