@@ -101,7 +101,7 @@
 </span></a> </p>
 
  <br/>
- 
+ <br/>
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Rajgupta7080&theme=vue" alt=""/> </p>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rajgupta7080&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
